@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#dfeaf1</color>
+    <color name="normal_button_color">#F08C35</color>
+    <color name="capstone_button_color">#d93055</color>
+    <color name="title_color">#3f5f71</color>
+</resources>
